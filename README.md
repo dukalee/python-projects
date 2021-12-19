@@ -3,5 +3,6 @@
 ### stroop-test
 match the color, not the word
 
-https://user-images.githubusercontent.com/32632438/146664624-1a06b782-7b21-4698-b686-bb45210f3845.mov
+https://user-images.githubusercontent.com/32632438/146664640-6a0b6f0d-dcb6-4871-86e6-9dd5c3d8d3c2.mov
+
 
