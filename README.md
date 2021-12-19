@@ -1,4 +1,4 @@
-### Basic Python Projects 
+### Simple Python Projects 
 ---
 Stroop-Test
 > Stroop Color and Word Test (SCWT) using tkinter
